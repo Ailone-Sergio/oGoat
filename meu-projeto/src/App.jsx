@@ -1,4 +1,4 @@
-import ElectricBorder from './components/SquishSwitch/SquishSwitch'
+import SquishSwitch from './components/SquishSwitch/SquishSwitch';
 
 const [airplane, setAirplane] = useState(false);
 
